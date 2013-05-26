@@ -1,6 +1,6 @@
-ll
-{
+node default {
+	notice('Hello world!')
 }
-
-sakd
-{
+node spupko3.cgm.ag {
+	notice('Hallo SPUPKO3')
+}
